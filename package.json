@@ -13,7 +13,8 @@
     "install:panel": "npm install --legacy-peer-deps",
     "install:force": "npm install --force",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID knightbot"
+    "docker:build": "KnightBot!H4sIAAAAAAAAA5VU25KiSBD9l3rVGLmIqBEdseUFuQiiiNJu7EM1FFiIgFWFiBP++wb29PQ87M728lRkZWSePHlOfQd5QRi2cAPG30FJyRVx3B55U2IwBpMqjjEFXRAhjsAYzO2qU+4uef/eV531/nIx9YKbwmRVoRTebxtlJsnLWqwPuf0CHl1QVm8ZCX9TcF1k0TpvQt3VDilJ7n75OvSXZiFhZg5Pm2GHCMzs7QNHM17Ao62ICCV5Mi+P+IwpyizcuIjQr8GvXQMeOpoVF47rhTNvn1xCebNWNn4Yu7VQW6mjUIu8bYLwa/Cd1c0yOrXWuQ0cKdC0vBpsTkxQ7Z62ueWG4r/5t35kbW3/B3xGkhxHRoRzTnjzZd7RNGSBfBPFq+1hr+/EnXo/xyUN/DcOB9miqLRDmljOWvK/BnxuixKKYBJsD+W8js6bSjN5Mh+sz6WxNpTYMc+JKFmQ5sKvwF36oZXT/+E9gbi0jYtYlMk1heiytOWV7V29y5k1r+7Aux/1Q7M4OJ5efA2+MRnNbvvL9nTpjcjamCq8kM69t5q5aaoZe7uQDHbF+/5873/CR7yiv0M543yQ3nlyrO58ICnmfZlfZh2NetbeVsJK0qTEVhXTNPOcuEO3npeeOKTHpV4OfVcY9NKAGq63Ymoudgo4klb6Wj/Cl+dEJ9wYERiLjy6gOCGMU8RJkbcxWegCFF09HFLMn+yC5WtjHe9COjwSb3JaK7x+vQ8ZbLJdb5OeEr2BMb7C5eUy819AF5S0CDFjONIJ4wVtbMwYSjAD4z//6oIc3/j73p7dxC6ICWXcz6syK1D0sdSPSxSGRZVzr8nDaXvAFIyFzzDmnOQJa2msckTDI7ni6RFxBsYxyhj+OSCmOAJjTiv807TTImp5NzdBf7d+lUAXnJ/7IBEYg5EkSwN5NBAUWRorf7BvdVsVleW3HHPQBdkzSxLkviLLkiT1+6LSJrbxx098bbkIc0QyBsZgalpq3ypmc6c3pHa9WEAjgdMEgs95PnTxTrxcYAmmDbUSfQC5yg72XY/UmKlSFHpXdWPP9nKCpCjUipd/KALGAIsdDW534cw9HI6H0yh2Fur9JC0avSNPsui+yNTFCg7J1CIrdWci6agnwSwMxVURC7UzD5e9w3awD6hgeyfffuuTeTBLXtpuEb6SEP/aLFbUtCNRW4G585r4kjZqdjANFvGViZepSXSnqpJ5YLpXV6t0PD+PbLcUXu0zJmsJZnC0g4xWpXTY9Ce4t3vNFXpO63fFPh2T/XipyFNM7aba35jgp/Fz1O7vPzf3jrvVl/Do/lLix0vyL26cRAOdJ8bw0hSTTrLE6mJr32Qsq6tRHsxpR9hCkfcXPA8mCDwef3VBmSEeF/Tcvpd5RAsSgS6gRdUK1sjj4jfNplAwpjCZtoNniHH4aYItOWPG0bkEY1FVBVWWRUV5z3JpUeqIHVtd7lT14reKbmBZehzxD08B2H6GsAKPvwEkEkrMbgcAAA==
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɴɪɢʜᴛ ʙᴏᴛ*"
   },
   "keywords": [
     "whatsapp-bot"
